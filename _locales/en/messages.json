@@ -1,0 +1,206 @@
+{
+   "default_profile_name": {
+      "message": "Default"
+   },
+   "ext_name": {
+      "message": "SickBeardConnect"
+   },
+   "gui_month_april": {
+      "message": "April"
+   },
+   "gui_month_august": {
+      "message": "August"
+   },
+   "gui_month_december": {
+      "message": "December"
+   },
+   "gui_month_february": {
+      "message": "February"
+   },
+   "gui_month_january": {
+      "message": "January"
+   },
+   "gui_month_july": {
+      "message": "July"
+   },
+   "gui_month_june": {
+      "message": "June"
+   },
+   "gui_month_march": {
+      "message": "March"
+   },
+   "gui_month_may": {
+      "message": "May"
+   },
+   "gui_month_november": {
+      "message": "November"
+   },
+   "gui_month_october": {
+      "message": "October"
+   },
+   "gui_month_september": {
+      "message": "September"
+   },
+   "options_addshow_label": {
+      "message": "Add new show in"
+   },
+   "options_apiKey_description": {
+      "message": "Get the ApiKey from the SickBeard config page"
+   },
+   "options_apiKey_example": {
+      "message": "32 chars"
+   },
+   "options_apiKey_label": {
+      "message": "SickBeard ApiKey"
+   },
+   "options_badgeRefreshRate_label": {
+      "message": "Refresh badge counter every"
+   },
+   "options_clearCache_message": {
+      "message": "The cache was cleard"
+   },
+   "options_clearCache_text": {
+      "message": "Clear the Cache"
+   },
+   "options_connectionStatus_label": {
+      "message": "Connections status"
+   },
+   "options_group_connection": {
+      "message": "Connection"
+   },
+   "options_group_feel": {
+      "message": "Feel"
+   },
+   "options_group_localStorage": {
+      "message": "LocalStorage"
+   },
+   "options_group_look": {
+      "message": "Look"
+   },
+   "options_group_profile_switching": {
+      "message": "Profile Auto Switching"
+   },
+   "options_group_special": {
+      "message": "Special"
+   },
+   "options_historyFilter_label": {
+      "message": "Show in history tab"
+   },
+   "options_iconBadge_label": {
+      "message": "Icon badge displays"
+   },
+   "options_imageBanner_label": {
+      "message": "Display the show banner"
+   },
+   "options_imageFuture_label": {
+      "message": "Images in CommingEp Tab"
+   },
+   "options_minute": {
+      "message": "minute"
+   },
+   "options_minutes": {
+      "message": "minutes"
+   },
+   "options_notificationRefreshRate_description": {
+      "message": "The refresh rate is increased for 60 seconds when a notification is anticipated"
+   },
+   "options_notificationRefreshRate_label": {
+      "message": "Look for Notifications every"
+   },
+   "options_notificationVisable_label": {
+      "message": "Display Notification for"
+   },
+   "options_password_example": {
+      "message": "SickBeard Password"
+   },
+   "options_password_label": {
+      "message": "Password"
+   },
+   "options_priority_label": {
+      "message": "Priority"
+   },
+   "options_profile_copy_button": {
+      "message": "Copy Profile"
+   },
+   "options_profile_create_button": {
+      "message": "New Profile"
+   },
+   "options_profile_delete_button": {
+      "message": "Delete Profile"
+   },
+   "options_profile_switching_description": {
+      "message": "If auto profile switching is on, it will try to find the profile with the highst priority which is online and will change to that profile. Only profiles with a priority are checked. It will not automatically switch if config or popup is open."
+   },
+   "options_profile_switching_label": {
+      "message": "Check Profile every"
+   },
+   "options_prority_description": {
+      "message": "Higher number means higher priority."
+   },
+   "options_resetSettings_question": {
+      "message": "This will reset this extension's settings.  Are you sure?"
+   },
+   "options_resetSettings_text": {
+      "message": "Reset to default settings"
+   },
+   "options_second": {
+      "message": "second"
+   },
+   "options_seconds": {
+      "message": "seconds"
+   },
+   "options_sectionSelect_description": {
+      "message": "'Remember Last' does not remember if a show was viewed last. It will fallback to Shows\u003Cbr/>It will always remember the last section in ComingEP if not set directly."
+   },
+   "options_sectionSelect_label": {
+      "message": "On open switch to"
+   },
+   "options_switchToShow_description": {
+      "message": "Load the show view of the Show currently viewed on e.g. trakt.tv"
+   },
+   "options_switchToShow_label": {
+      "message": "Switch to current Show"
+   },
+   "options_tabAnimation_label": {
+      "message": "Animate tab change"
+   },
+   "options_tab_advanced": {
+      "message": "Advanced"
+   },
+   "options_tab_lookAndFeel": {
+      "message": "Look & Feel"
+   },
+   "options_tab_sickbeard": {
+      "message": "SickBeard"
+   },
+   "options_url_example": {
+      "message": "http://your-dyn-dns:8080"
+   },
+   "options_url_label": {
+      "message": "SickBeard Url"
+   },
+   "options_usernamePassword_description": {
+      "message": "You only need to provide the username and password if you want to display images and are below API v0.2"
+   },
+   "options_username_example": {
+      "message": "SickBeard Username"
+   },
+   "options_username_label": {
+      "message": "Username"
+   },
+   "options_width_label": {
+      "message": "Popup width"
+   },
+   "sb_name": {
+      "message": "SickBeard"
+   },
+   "search": {
+      "message": "Search"
+   },
+   "settings": {
+      "message": "Settings"
+   },
+   "settings_search_nothingFound": {
+      "message": "No matches were found."
+   }
+}
